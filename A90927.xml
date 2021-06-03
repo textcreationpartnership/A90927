@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The papists petition in England. To their diabolicall center of impiety the Pope. Or their glory, in a story, wherein they sit, and pumpe for witt.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90927</idno><idno type="EEBO-CITATION">99871694</idno>
+  <idno type="VID">156402</idno>
+  <idno type="EEBO-PROQUEST">2240944993</idno>
+  
+            <idno type="STC">Wing P317</idno>
+            <idno type="STC">Thomason E134_12</idno>
+            <idno type="STC">ESTC R22296</idno>
+            <idno type="PROQUEST">99871694</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871694e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90927)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156402)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E134[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The papists petition in England. To their diabolicall center of impiety the Pope. Or their glory, in a story, wherein they sit, and pumpe for witt.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Hammond,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Popes answer to the petition: p.5.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catholics --  England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156402:1"/>
+            <p>THE Papists Petition IN ENGLAND TO Their Diabolicall Center of Impiety the POPE.</p>
+            <lg>
+               <l>Or their glory,</l>
+               <l>in a story,</l>
+               <l>Wherein they sit,</l>
+               <l>and Pumpe for witt.</l>
+            </lg>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Hammond.</hi> 164<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:156402:2"/>
+            <pb n="3" facs="tcp:156402:2"/>
+            <head>TO their Right Hono<g ref="char:EOLhyphen"/>rable and adored Polititian the <hi>POPE,</hi> grand <hi>PLVTO</hi> his ensigne bearer here upon earth, to w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ose hand we the poore di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tres<g ref="char:EOLhyphen"/>sed Catholick Babylonians present our petitionary desires for re<g ref="char:EOLhyphen"/>movall of our grievances</head>
+            <opener>Sheweth,</opener>
+            <p>THat our present miseries growing intol<g ref="char:EOLhyphen"/>lerably through the stubborn pervers<g ref="char:EOLhyphen"/>nesse of the Protestant party in their he<g ref="char:EOLhyphen"/>reticall opinions, to confute whom we con<g ref="char:EOLhyphen"/>found our selves and against whom the devill himself hath no power, his agents here having tryed so much of their diabolicall experience still proving inutile and to no purpose that they are or will be soon tyred without some sudden relief from your holinesse, and your dishonourable couns<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, for we are so dry drawn through the misprision of our inventi<g ref="char:EOLhyphen"/>on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that we daily pump for wit and go with<g ref="char:EOLhyphen"/>out it, Dresse plot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and prove so bad cooks, that the sawce is so hot we searce dare lick <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur own fingers after them: Our fortunes being as pernicious as Demonick Sproovoyse your Holinesses ropem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ker, who studyed all his time the art, and the first halter he made ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<g ref="char:EOLhyphen"/>ed
+<pb n="4" facs="tcp:156402:3"/> himself: the times are grown so bad, and the hereticks so cunning, that <hi>Reynold</hi> him<g ref="char:EOLhyphen"/>self with all his subtiltie and the <hi>Roe</hi> with all swiftnesse may be hanged both together, as for example <hi>Tyburn</hi> hath already claimed both their bodies as due, and <hi>Grego<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> that caytiffe executioner their outside while the better part is gone to purgatorie before us, what hopes have we when we see our primogeniture and first producers of our Religion to fail and fall so before us, Our warriours and chief de<g ref="char:EOLhyphen"/>fendants are taken prisoners, none daring bear arms but such as deny us and our Religion; but oh our distresses, miseries and incompara<g ref="char:EOLhyphen"/>ble sorrows when we but consider the unwor<g ref="char:EOLhyphen"/>thy misusage of our dear friend Canterbury, who of himself would have been a sufficient powdering tubb to have salted the whole sect of Protestants whose industrious vigilancy o<g ref="char:EOLhyphen"/>ver them, and sedulous indulgence towards are beyond expression, and exceed all former authouts: there never durst an able Protestant Minister shew his face in the pulpit, but he stopt this mouth for fear he should speak blas<g ref="char:EOLhyphen"/>phemy, and for us in those happy dayes we had almost got the Church-government into our hands, put it is now otherwise.</p>
+            <lg>
+               <l>Our friends are fast</l>
+               <l>Our ioyes are past.</l>
+               <l>O hone, O hone.</l>
+            </lg>
+            <pb n="5" facs="tcp:156402:3"/>
+            <p>These are the substance of our humble pe<g ref="char:EOLhyphen"/>titions of which we desire and quotidially ex<g ref="char:EOLhyphen"/>pect the release of these our grievances by your holinesse, and we in the mean time shall repeat ten thousand <hi>Aue Maries</hi> for the pros<g ref="char:EOLhyphen"/>pering of your most demonicall counsels a<g ref="char:EOLhyphen"/>gainst this kingdome.</p>
+            <closer>
+               <signed>
+                  <hi>Your Holinesses Petitioners still praying,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="response_to_petition">
+            <head>The Popes answer to the <hi>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>TITION.</hi>
+            </head>
+            <p>We have perused your petition presented unto us, where we finde sufficient occasion produced of a sympathy and fellow-feeling of our miseries, sorry we are to heare of your disastasters, but much more wonder how they dare contradict our designes: I have thought good to send an Excommunication against them from our Holinesse, to make them un<g ref="char:EOLhyphen"/>derstand what it is to displease our infe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nal po<g ref="char:EOLhyphen"/>wer, &amp; as for our true noble friends, and unsan<g ref="char:EOLhyphen"/>ctifyed brethren whom these wicked schisma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cks have put to death, for proceeding in our faith to the inlarging of our demonicall go<g ref="char:EOLhyphen"/>vernment, we have cut their iourney short who leaving Purgatory on the left hand, are gone to the satanicall dominions in embas<g ref="char:EOLhyphen"/>sage for our Holinesse, whose return was sud<g ref="char:EOLhyphen"/>denly expected to bring his counsell from
+<pb n="6" facs="tcp:156402:4"/> great Demon king of Acheron and Phlege<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hon whose counsell will be pernitiously welcome and sufficient to direct us what to plot against your and our enemies: But as for Canterbury our subsequent, or Pope Mini<g ref="char:EOLhyphen"/>mus in England, and all his 12 b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ethren in the Royall palace of the Tower, wee have been searching the Magazine of great Pluto, for to invent some way of deliverance, who in respect of their dutifull labours towards him and us, hath promised to take them into his consideration, and by Magicke art to take them invisibly in a cloud, and send them by some of hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> agents to the Devill, where their entertainment shall be according as they have deserved: Our Counsell is, to be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alliant in your conspiracies, upon the which you ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e our blessings, Demons assistance, Babells prayers, and continuall Sin▪ offerings upon our Antichristian Altars, for your prosperous proceedings.</p>
+         </div>
+         <div type="text">
+            <head>The Tenor of the Excommunication, se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t by the POPE, against his adversaries in ENGLAND.</head>
+            <p>VRBANVS <hi>Authoritate Diobolica totius orbe Primas &amp; Metopolitanus di<g ref="char:EOLhyphen"/>lecte nobis in demone, &amp;c.</hi> That all those that denie to adhere and ioyne with
+<pb n="7" facs="tcp:156402:4"/> us in our designes, and have been hinderances hitherto, shall be excommunicated our of the Church, and be denyed entrance into our in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ernall Kingdome.</p>
+            <closer>
+               <dateline>Subscribed at our Pallace of Babell, in the Citie of Rome, <date>
+                     <hi>Decimo die Tridemiter. Anno. Peccandi.</hi> 1598.</date>
+               </dateline>
+               <signed>
+                  <hi>Signum et Sigilum,</hi> Vrbanum Foule▪ evill.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>The Devills Counsell to the Pope, for remov<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll of grievances, sustained by his Holinesse.</head>
+            <p>OVR Right and Welbeloved Sonne, Wee in our Infernall habitation, un<g ref="char:EOLhyphen"/>derstanding of your industrious care and endeavors for the inlarging of our King<g ref="char:EOLhyphen"/>doms, and the daily misfortunes crossing your designes, and have thought good to adde my counsell and assistance, which is this that you not onely Excommunicate the Rebells, but also provide means to cut them off by some damnable plot, by your adherents amongst them, confiscate their pernicious Parliament, destroy and put to the sword the principall men thereof, confound them in their devices by civill mutinies, and favour them no more, as we have done by missing so faire an oppor<g ref="char:EOLhyphen"/>tunitie at the Parliament House, and not put<g ref="char:EOLhyphen"/>ting our intended devices in agitation by
+<pb n="8" facs="tcp:156402:5"/> Powder works raising an army of our faction against them in hostile manner in this King<g ref="char:EOLhyphen"/>dome. Let none feare to venture life and limbe in this our expedition of service, for in so do<g ref="char:EOLhyphen"/>ing, they shall gaine a Saint place in our Kingdome, be canonized here upon earth, and their memoriall never be blotted out of our demonick memorie: Their names shall be in<g ref="char:EOLhyphen"/>serted in our Chronickle to their everlasting honour; Doe thou therefore deere Sonne, stirre them up to this designe, and grant them a dispensation to annimate them therein, and in so doing, thou shalt shew thy selfe our loy<g ref="char:EOLhyphen"/>all Servant, and in the end receive thy Iust re<g ref="char:EOLhyphen"/>ward in my infernall Kingdome.</p>
+         </div>
+         <div type="text">
+            <head>
+               <hi>The</hi> POPES <hi>Answere.</hi>
+            </head>
+            <p>NOBLE Liege; wee give Laud to you for your counsiliatory indeavours, and will put it speedily in practise; wherewith they withdrew, and parted to consider fur<g ref="char:EOLhyphen"/>ther.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
